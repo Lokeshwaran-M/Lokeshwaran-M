@@ -23,11 +23,22 @@ const me = {
 }
 ```
 
+---
+
+## Languages and Tools:
+
+<br />
+
+
 
 ---
 ## GitHub Stats
 
  <img align="left" alt="Lokeshwaran's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Lokeshwaran-M&show_icons=true&hide_border=true" />
+ 
+ 
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lokeshwaran-M&show_icons=true&locale=en&layout=compact" alt="prashu-asp" /></p>
+ 
 
 <!-- ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Lokeshwaran-M) -->
 
