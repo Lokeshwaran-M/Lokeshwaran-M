@@ -7,7 +7,7 @@
 
 
 
-[![Website](https://img.shields.io/website?label=lokeshwaran&style=for-the-badge&url=https://lok-resume.web.app/)](https://lok-resume.web.app/)
+[![Website](https://img.shields.io/website?label=lokeshwaran&style=for-the-badge&url=https://lokesh-m.web.app/)](https://lokesh-m.web.app/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/lokeshwaran?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://twitter.com/lokeshwaran_23)
 
 ---
@@ -43,7 +43,7 @@ const me = {
 
 <!-- ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Lokeshwaran-M) -->
 
-[website]: https://lok-resume.web.app/
+[website]: https://lokesh-m.web.app/
 [twitter]: https://twitter.com/lokeshwaran_23
 [linkedin]: https://www.linkedin.com/in/lokeshwaran-m/
 
