@@ -15,7 +15,7 @@
 const me = {
   username:  "Lokeshwaran-M",
   nickname:  "Lokesh",
-  website:   "https://lok-resume.web.app/",
+  website:   "https://lokesh-m.web.app/",
   github:    "https://github.com/Lokeshwaran-M",
   linkedin:  "https://www.linkedin.com/in/lokeshwaran-m/",
   dev:       "https://dev.to/lokeshwaran_m"
