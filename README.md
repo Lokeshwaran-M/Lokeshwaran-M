@@ -13,14 +13,17 @@
 ---
 ```javascript
 const me = {
+
   username:  "Lokeshwaran-M",
   nickname:  "Lokesh",
   website:   "https://lokesh-m.web.app/",
   github:    "https://github.com/Lokeshwaran-M",
   linkedin:  "https://www.linkedin.com/in/lokeshwaran-m/",
-  dev:       "https://dev.to/lokeshwaran_m"
-  instagram: "https://www.instagram.com/lokeshwaran_2003/",
   email:     "lokeshwaran.m23072003@gmail.com",
+  dev:       "https://dev.to/lokeshwaran_m",
+  instagram: "https://www.instagram.com/lokeshwaran_2003/",
+  twitter:   "https://twitter.com/lokeshwaran_23"
+  
 }
 ```
 
