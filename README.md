@@ -1,8 +1,8 @@
-## Hey, 👋 I’m @Lokeshwaran-M
+## Hey, 👋 I’m @Lokeshwaran-M ( Loki )
 
-### CS 2024 @ VIT
+### CS 2024 @ VIT University
 
-### I'm a Developer and Lyricist !!
+### I'm a Developer and Lyricist !! who loves Linux and Anime 
 
 [![Website](https://img.shields.io/website?label=lokeshwaran&&style=for-the-badge&url=https://lokesh-m.web.app/)](https://lokesh-m.web.app/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/lokeshwaran?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://twitter.com/lokeshwaran_23)
@@ -54,8 +54,8 @@ const me = {
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=flat-square&logo=amazon-aws&logoColor=yellow)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-black?style=flat-square&logo=microsoft-azure&logoColor=232F7E)
+<!-- ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=flat-square&logo=amazon-aws&logoColor=yellow) -->
+<!-- ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-black?style=flat-square&logo=microsoft-azure&logoColor=232F7E) -->
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Postman](https://img.shields.io/badge/Postman-black?logo=postman&logoColor=FF6C37)
 
@@ -79,13 +79,13 @@ const me = {
  
  <div align="center">
 	<div>
-   <img width="80%" src="https://github-readme-stats.vercel.app/api?username=Lokeshwaran-M&show_icons=true&theme=tokyonight" />
+   <img width="70%" src="https://github-readme-stats.vercel.app/api?username=Lokeshwaran-M&show_icons=true&theme=tokyonight" />
   </div>
   <div>
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lokeshwaran-M&theme=tokyonight" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lokeshwaran-M&theme=tokyonight" />
   </div>
-    <div>
-  <img width="80%" height ="80%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lokeshwaran-M&theme=tokyonight" />
+  <div>
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lokeshwaran-M&theme=tokyonight" />
   </div>
 </div>
 
