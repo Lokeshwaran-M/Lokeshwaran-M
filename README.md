@@ -2,7 +2,7 @@
 
 ### CS 2024 @ VIT University
 
-### I'm a Developer and Lyricist !! who loves Linux and Anime 
+### I'm a Developer and Lyricist !! who loves Linux and Anime and founder of [@Jam-AI](https://github.com/Jam-AI-org)
 
 [![Website](https://img.shields.io/website?label=lokeshwaran&&style=for-the-badge&url=https://lokesh-m.web.app/)](https://lokesh-m.web.app/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/lokeshwaran?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://twitter.com/lokeshwaran_23)
