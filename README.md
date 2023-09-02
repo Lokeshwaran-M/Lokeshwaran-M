@@ -91,13 +91,13 @@ me = {
 
  <div align="center">
 	<div>
-   <img width="70%" src="https://github-readme-stats.vercel.app/api?username=Lokeshwaran-M&show_icons=true&theme=transparent" />
+   <img width="60%" src="https://github-readme-stats.vercel.app/api?username=Lokeshwaran-M&show_icons=true&theme=transparent" />
   </div>
   <div>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lokeshwaran-M&theme=transparent" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lokeshwaran-M&theme=transparent" />
   </div>
   <div>
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lokeshwaran-M&theme=transparent" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lokeshwaran-M&theme=transparent" />
   </div>
 </div>
 
