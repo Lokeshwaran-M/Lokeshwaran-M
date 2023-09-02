@@ -22,10 +22,10 @@
 **A Developer and Lyricist !! who loves Linux and Anime and founder of [@Jam-AI](https://github.com/Jam-AI-org)**
 
 [![Website Badge](https://img.shields.io/badge/-Mysite-08b756?style=flat&logo=Google-Chrome&logoColor=black&link=https://lokesh-m.web.app/)](https://lokesh-m.web.app/)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=black&link="https://www.linkedin.com/in/lokeshwaran-m/)]("https://www.linkedin.com/in/lokeshwaran-m/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/lokeshwaran-m/)](https://www.linkedin.com/in/lokeshwaran-m/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@lokesh-m)](https://medium.com/@lokesh-m)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=black&link=https://twitter.com/lokesh_m2003)](https://twitter.com/lokesh_m2003)
-[![Instagram Badge](https://img.shields.io/badge/-Insta-ae08ff?style=flat&logo=instagram&logoColor=black&link=https://www.instagram.com/lokesh_m2003/)](https://www.instagram.com/lokeshwaran_2003/)
+[![Instagram Badge](https://img.shields.io/badge/-Insta-ae08ff?style=flat&logo=instagram&logoColor=black&link=https://www.instagram.com/lokesh_m2003/)](https://www.instagram.com/lokesh_m2003/)
 [![Gmail Badge](https://img.shields.io/badge/-gmail-f6122d?style=flat&logo=Gmail&logoColor=black&link=mailto:lokeshwaran.m23072003@gmail.com)](mailto:lokeshwaran.m23072003@gmail.com)
 
 </div>
