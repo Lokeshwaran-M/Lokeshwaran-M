@@ -31,18 +31,18 @@
 </div>
 </div>
 
-```python
-me = {
-  username  : "Lokeshwaran-M",
-  nickname  : "Loki",
-  gemail    : "lokeshwaran.m23072003@gmail.com",
-  website   : "https://lokesh-m.web.app/",
-  github    : "https://github.com/Lokeshwaran-M",
-  linkedin  : "https://www.linkedin.com/in/lokeshwaran-m/",
-  instagram : "https://www.instagram.com/lokesh_m2003/",
-  twitter   : "https://twitter.com/lokesh_m2003",
-  medium    : "https://medium.com/@lokesh-m",
-  dev       : "https://dev.to/lokeshwaran_m"
+```js
+var me = {
+  username: "Lokeshwaran-M",
+  nickname: "Loki",
+  gemail: "lokeshwaran.m23072003@gmail.com",
+  website: "https://lokesh-m.web.app/",
+  github: "https://github.com/Lokeshwaran-M",
+  linkedin: "https://www.linkedin.com/in/lokeshwaran-m/",
+  instagram: "https://www.instagram.com/lokesh_m2003/",
+  twitter: "https://twitter.com/lokesh_m2003",
+  medium: "https://medium.com/@lokesh-m",
+  dev: "https://dev.to/lokeshwaran_m",
 };
 ```
 
@@ -86,20 +86,24 @@ me = {
 
 ![vscode](https://img.shields.io/badge/VScode-black?style=flat-square&logo=visualstudiocode&logoColor=blue)
 
-## GitHub Stats : 
+## GitHub Stats :
 
+![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lokeshwaran-M&theme=tokyo-night&custom_title=Loki%20Activity%20Graph&hide_border=true)
 
+<div style="display: flex;">
  <div align="center">
 	<div>
-   <img width="65%" height="65%" src="https://github-readme-stats.vercel.app/api?username=Lokeshwaran-M&show_icons=true&theme=transparent" />
+   <img width="80%" height="65%" src="https://github-readme-stats.vercel.app/api?username=Lokeshwaran-M&show_icons=true&theme=transparent" />
   </div>
   <div>
-  <img width="45%" height="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lokeshwaran-M&theme=transparent" />
-  </div>
-  <div>
-  <img width="65%" height="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lokeshwaran-M&theme=transparent" />
+  <img width="80%" height="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lokeshwaran-M&theme=transparent" />
   </div>
 </div>
-
+<div>
+  <div>
+  <img width="88%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lokeshwaran-M&theme=transparent&layout=donut-vertical" />
+  </div>
+</div>
+</div>
 
 <!-- ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Lokeshwaran-M) -->
