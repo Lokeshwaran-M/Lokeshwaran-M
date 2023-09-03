@@ -91,17 +91,6 @@ var me = {
 ![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lokeshwaran-M&theme=github-dark&custom_title=Loki%20Activity%20Graph&hide_border=true)
 
 
-<!-- <table >
-  <tr>
-    <td align="center"> 
-      <img  width="50%" height="50%" src="https://github-readme-stats.vercel.app/api?username=Lokeshwaran-M&show_icons=true&theme=transparent" />
-      <img  width="50%" height="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lokeshwaran-M&theme=transparent" />
-    </td>
-   <td align="center"> 
-     <img  width="100%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lokeshwaran-M&theme=transparent&layout=donut-vertical" />
-    </td>
-  </tr>
-</table> -->
 
 | <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Lokeshwaran-M&show_icons=true&theme=transparent" /><img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Lokeshwaran-M&theme=transparent" />  | <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lokeshwaran-M&theme=transparent&layout=donut-vertical" /> |
 | ------------- | ------------- |
