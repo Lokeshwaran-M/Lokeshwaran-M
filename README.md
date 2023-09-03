@@ -96,13 +96,17 @@ var me = {
     <img width="100%" height="75%" src="https://github-readme-stats.vercel.app/api?username=Lokeshwaran-M&show_icons=true&theme=transparent" />
     </div>
 		<div>
-    <img width="100%" height="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lokeshwaran-M&theme=transparent" /></div>
+    <img width="100%" height="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lokeshwaran-M&theme=transparent" />
+    </div>
   </div>
   <div style="flex: 50%;" >
-  <div>
       <img width="67%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lokeshwaran-M&theme=transparent&layout=donut-vertical" />
   </div>
-  </div>
 </div>
+
+
+
+       
+
 
 <!-- ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Lokeshwaran-M) -->
