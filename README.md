@@ -90,23 +90,16 @@ var me = {
 
 ![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lokeshwaran-M&theme=tokyo-night&custom_title=Loki%20Activity%20Graph&hide_border=true)
 
-<div  align = "center" style="display: flex;">
-  <div style="flex: 50%;" >
-    <div>
-    <img width="100%" height="75%" src="https://github-readme-stats.vercel.app/api?username=Lokeshwaran-M&show_icons=true&theme=transparent" />
-    </div>
-		<div>
-    <img width="100%" height="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lokeshwaran-M&theme=transparent" />
-    </div>
-  </div>
-  <div style="flex: 50%;" >
-      <img width="67%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lokeshwaran-M&theme=transparent&layout=donut-vertical" />
-  </div>
-</div>
-
-
-
-       
-
+<table align = "center">
+  <tr>
+    <td > 
+      <img align="center" width="50%" height="35%" src="https://github-readme-stats.vercel.app/api?username=Lokeshwaran-M&show_icons=true&theme=transparent" />
+      <img align="center" width="50%" height="35%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lokeshwaran-M&theme=transparent" />
+    </td>
+   <td > 
+     <img align="center" width="1000%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lokeshwaran-M&theme=transparent&layout=donut-vertical" />
+    </td>
+  </tr>
+</table>
 
 <!-- ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Lokeshwaran-M) -->
