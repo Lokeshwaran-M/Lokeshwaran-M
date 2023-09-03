@@ -88,7 +88,7 @@ var me = {
 
 ## GitHub Stats :
 
-![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lokeshwaran-M&theme=tokyo-night&custom_title=Loki%20Activity%20Graph&hide_border=true)
+![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lokeshwaran-M&theme=github-dark&custom_title=Loki%20Activity%20Graph&hide_border=true)
 
 
 <!-- <table >
