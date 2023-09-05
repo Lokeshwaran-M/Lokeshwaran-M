@@ -56,8 +56,8 @@ me.save_json("me.json")
 me.print_json()
 
 ```
+
 ```json
-// output
 {
   "username": "Lokeshwaran M",
   "nickname": "Loki",
@@ -72,8 +72,6 @@ me.print_json()
   "medium": "https://medium.com/@lokesh-m",
   "dev": "https://dev.to/lokeshwaran_m"
 }
-
-
 ```
 
 ## Tech Stack :
