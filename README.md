@@ -31,19 +31,49 @@
 </div>
 </div>
 
-```js
-var me = {
-  username: "Lokeshwaran-M",
-  nickname: "Loki",
-  gemail: "lokeshwaran.m23072003@gmail.com",
-  website: "https://lokesh-m.web.app/",
-  github: "https://github.com/Lokeshwaran-M",
-  linkedin: "https://www.linkedin.com/in/lokeshwaran-m/",
-  instagram: "https://www.instagram.com/lokesh_m2003/",
-  twitter: "https://twitter.com/lokesh_m2003",
-  medium: "https://medium.com/@lokesh-m",
-  dev: "https://dev.to/lokeshwaran_m",
+<!-- ```json
+me = {
+  "username": "Lokeshwaran-M",
+  "nickname": "Loki",
+  "gmail": "lokeshwaran.m23072003@gmail.com",
+  "website": "https://lokesh-m.web.app/",
+  "github": "https://github.com/Lokeshwaran-M",
+  "linkedin": "https://www.linkedin.com/in/lokeshwaran-m/",
+  "instagram": "https://www.instagram.com/lokesh_m2003/",
+  "twitter": "https://twitter.com/lokesh_m2003",
+  "medium": "https://medium.com/@lokesh-m",
+  "dev": "https://dev.to/lokeshwaran_m",
 };
+``` -->
+
+```python
+#!/usr/bin/python
+
+from bio import Developer
+
+me = Developer()
+me.save_json("me.json")
+me.print_json()
+
+```
+```json
+// output
+{
+  "username": "Lokeshwaran M",
+  "nickname": "Loki",
+  "role": "Developer",
+  "lang_spoken": ["en_US", "tamil", "nihongo"],
+  "gmail": "lokeshwaran.m23072003@gmail.com",
+  "website": "https://lokesh-m.web.app/",
+  "github": "https://github.com/Lokeshwaran-M",
+  "linkedin": "https://www.linkedin.com/in/lokeshwaran-m/",
+  "instagram": "https://www.instagram.com/lokesh_m2003/",
+  "twitter": "https://twitter.com/lokesh_m2003",
+  "medium": "https://medium.com/@lokesh-m",
+  "dev": "https://dev.to/lokeshwaran_m"
+}
+
+
 ```
 
 ## Tech Stack :
@@ -90,8 +120,7 @@ var me = {
 
 ![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lokeshwaran-M&theme=github-dark&custom_title=Loki%20Activity%20Graph&hide_border=true)
 
+| <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Lokeshwaran-M&show_icons=true&theme=transparent" /><img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Lokeshwaran-M&theme=transparent" /> | <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lokeshwaran-M&theme=transparent&layout=donut-vertical" /> |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
-
-| <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Lokeshwaran-M&show_icons=true&theme=transparent" /><img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Lokeshwaran-M&theme=transparent" />  | <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lokeshwaran-M&theme=transparent&layout=donut-vertical" /> |
-| ------------- | ------------- |
 <!-- ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Lokeshwaran-M) -->
