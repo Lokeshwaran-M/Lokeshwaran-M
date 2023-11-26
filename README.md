@@ -19,7 +19,7 @@
 ```
 
 **CS 2024 @ VIT University**  
-**A Developer and Lyricist !! who loves Linux and Anime and founder of [@Jam-AGI](https://github.com/jam-agi)**
+**A Developer and Lyricist !! who loves Linux and Anime and founder of [@OX-AI](https://github.com/ox-ai)**
 
 [![Website Badge](https://img.shields.io/badge/-Mysite-08b756?style=flat&logo=Google-Chrome&logoColor=black&link=https://lokesh-m.web.app/)](https://lokesh-m.web.app/)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/lokeshwaran-m/)](https://www.linkedin.com/in/lokeshwaran-m/)
